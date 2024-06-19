@@ -1,0 +1,21 @@
+%
+M48
+; Filename: MyAnt.txt
+; Description: Vias,PTH,1,2
+; Filename: MyAnt.txt
+; Description: Vias,PTH,1,2
+; Filename: MyAnt.txt
+; Description: Vias,PTH,1,2
+M72
+T01C0.009843
+T01C0.009843
+T01C0.009843
+%
+T01
+X001201Y-000098
+T01
+X001201Y-000098
+T01
+X001201Y-000098
+T00
+M30
